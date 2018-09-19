@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+main {
+    margin: 0 auto;
+    width: 40%;
+    background-color: #663399;
+    padding: 1em;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    text-justify: newspaper;
+}
